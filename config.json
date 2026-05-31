@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercalculate",
+        "uuid": 4867952,
+        "checksum": "e8hf9i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
